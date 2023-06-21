@@ -21,16 +21,17 @@
 2. 浏览视频、图文；
 3. 点击【分享】；
 4. 点击【更多分享】；
-5. 选择【🎵XDouYin分享快乐🎵v3.0】；
+5. 选择【🎵XDouYin分享快乐🎵v4.0】；
 6. 即可完成下载。
 
 ## 版本发布
 
-| 版本号 | 链接 |
-| --- | --- |
-| 1.0 | [https://www.icloud.com/shortcuts/56303a0989bc4ff9870da3138726ea1a](https://www.icloud.com/shortcuts/56303a0989bc4ff9870da3138726ea1a) |
-| 2.0 | [https://www.icloud.com/shortcuts/f9cbcd320e47459d88515bc8f5a3037d](https://www.icloud.com/shortcuts/f9cbcd320e47459d88515bc8f5a3037d) |
-| 3.0 | [https://www.icloud.com/shortcuts/160a8217d94748e6b079c5cfcbd93dc1](https://www.icloud.com/shortcuts/160a8217d94748e6b079c5cfcbd93dc1) |
+| 版本号 | 可用状态 | 链接 |
+| --- | --- |--- |
+| 1.0 | ❎失效 | [https://www.icloud.com/shortcuts/56303a0989bc4ff9870da3138726ea1a](https://www.icloud.com/shortcuts/56303a0989bc4ff9870da3138726ea1a) |
+| 2.0 | ❎失效 | [https://www.icloud.com/shortcuts/f9cbcd320e47459d88515bc8f5a3037d](https://www.icloud.com/shortcuts/f9cbcd320e47459d88515bc8f5a3037d) |
+| 3.0 | ❎失效 | [https://www.icloud.com/shortcuts/160a8217d94748e6b079c5cfcbd93dc1](https://www.icloud.com/shortcuts/160a8217d94748e6b079c5cfcbd93dc1) |
+| 4.0 | ✅可用 | [https://www.icloud.com/shortcuts/ab4bf297f2b247b292ab6a55b8312924](https://www.icloud.com/shortcuts/ab4bf297f2b247b292ab6a55b8312924) |
 
 ## 源码
 
