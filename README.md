@@ -17,13 +17,20 @@
 
 ## 使用方法
 
-1. 打开DouYin App，查看想下载的视频，点击分享，点击更多分享，选择🎵XDouYin去水印下载🎵，即可完成下载。
+1. 打开【DouYin】app；
+2. 查看想下载的视频/图文；
+3. 点击【分享】；
+4. 点击【复制链接】；
+5. 打开【快捷指令】app；
+6. 选择【🎵XDouYin去水印下载🎵】；
+7. 即可完成下载。
 
 ## 版本发布
 
 | 版本号 | 链接 |
 | --- | --- |
 | 1.0 | [https://www.icloud.com/shortcuts/56303a0989bc4ff9870da3138726ea1a](https://www.icloud.com/shortcuts/56303a0989bc4ff9870da3138726ea1a) |
+| 2.0 | [https://www.icloud.com/shortcuts/f9cbcd320e47459d88515bc8f5a3037d](https://www.icloud.com/shortcuts/f9cbcd320e47459d88515bc8f5a3037d) |
 
 ## 源码
 
