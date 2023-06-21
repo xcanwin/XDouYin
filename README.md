@@ -11,27 +11,29 @@
 
 ## 安装方法
 
-1. 在iOS浏览器打开 [版本发布](#版本发布) 里的链接
+1. 在iOS浏览器打开 [版本发布](#版本发布) 里的最新链接
 2. 点击```获取捷径```
 3. 点击```添加快捷指令```
 
 ## 使用方法
 
-1. 打开【DouYin】app；
-2. 浏览视频、图文；
-3. 点击【分享】；
-4. 点击【更多分享】；
-5. 选择【🎵XDouYin分享快乐🎵v4.0】；
-6. 即可完成下载。
+1. 打开【某音】App
+2. 浏览喜欢的视频、图文
+3. 点击【分享】
+4. 点击【更多分享】
+5. 选择【🎶XDouYin分享快乐🎶】
+6. 下载过程需要点击【始终允许】
+7. 之后会自动完成下载
 
 ## 版本发布
 
 | 版本号 | 可用状态 | 链接 |
 | --- | --- |--- |
-| 1.0 | ❎失效 | [https://www.icloud.com/shortcuts/56303a0989bc4ff9870da3138726ea1a](https://www.icloud.com/shortcuts/56303a0989bc4ff9870da3138726ea1a) |
-| 2.0 | ❎失效 | [https://www.icloud.com/shortcuts/f9cbcd320e47459d88515bc8f5a3037d](https://www.icloud.com/shortcuts/f9cbcd320e47459d88515bc8f5a3037d) |
-| 3.0 | ❎失效 | [https://www.icloud.com/shortcuts/160a8217d94748e6b079c5cfcbd93dc1](https://www.icloud.com/shortcuts/160a8217d94748e6b079c5cfcbd93dc1) |
-| 4.0 | ✅可用 | [https://www.icloud.com/shortcuts/ab4bf297f2b247b292ab6a55b8312924](https://www.icloud.com/shortcuts/ab4bf297f2b247b292ab6a55b8312924) |
+| 1.0 | ❌失效 | [https://www.icloud.com/shortcuts/56303a0989bc4ff9870da3138726ea1a](https://www.icloud.com/shortcuts/56303a0989bc4ff9870da3138726ea1a) |
+| 2.0 | ❌失效 | [https://www.icloud.com/shortcuts/f9cbcd320e47459d88515bc8f5a3037d](https://www.icloud.com/shortcuts/f9cbcd320e47459d88515bc8f5a3037d) |
+| 3.0 | ❌失效 | [https://www.icloud.com/shortcuts/160a8217d94748e6b079c5cfcbd93dc1](https://www.icloud.com/shortcuts/160a8217d94748e6b079c5cfcbd93dc1) |
+| 4.0 | ❌失效 | [https://www.icloud.com/shortcuts/ab4bf297f2b247b292ab6a55b8312924](https://www.icloud.com/shortcuts/ab4bf297f2b247b292ab6a55b8312924) |
+| 5.0 | ✅可用 | [https://www.icloud.com/shortcuts/6dd029def22f4333a6c409954c8d4aa2](https://www.icloud.com/shortcuts/6dd029def22f4333a6c409954c8d4aa2) |
 
 ## 源码
 
