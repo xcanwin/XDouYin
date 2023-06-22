@@ -45,4 +45,4 @@
 
 - 由于快捷指令的编码是通过拖拉拽的，因此没有文本型的源码
 - 以下图片即源码：
-- <img src="/code.jpg"></img>
+- <img src="/code.jpg" width="400"></img>
